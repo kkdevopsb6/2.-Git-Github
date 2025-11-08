@@ -1,7 +1,7 @@
 How many environments?
 —--------------------------------
 
-Dev branch —> development
+Dev branch —> development1
 Stg branch  —-> QA
 Master branch      —-> prod
 Release branch —-----> prod
